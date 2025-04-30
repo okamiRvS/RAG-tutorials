@@ -89,8 +89,8 @@ docker run --publish=7474:7474 --publish=7687:7687 --volume=".\neo4j_storage\dat
 Go here http://localhost:7474/
 
 By default, this requires you to login with:
-username neo4j
-password neo4j
+username: neo4j
+password: neo4j
 
 and change the password.
 ```
